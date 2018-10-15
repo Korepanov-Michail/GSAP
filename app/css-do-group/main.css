@@ -1,0 +1,141 @@
+body {
+  background-color: #070;
+}
+.btnSidebar {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  background-color: #00d;
+  font-size: 26px;
+  border-radius: 44px;
+  text-align: center;
+  padding-bottom: 2px;
+  padding-top: 2px;
+  border: solid;
+  border-width: 0px;
+  border-color: #3f5;
+}
+.btnSidebar a {
+  color: #3f5;
+  text-decoration: none;
+}
+#gsap1,
+#gsap2 {
+  margin: 10%;
+  font-size: 56px;
+  color: #3f5;
+  position: absolute;
+}
+.btnGsap1 {
+  border-width: 5px;
+}
+#gsap1 span {
+  position: relative;
+}
+#gsap2 span {
+  position: relative;
+}
+#control1,
+#control2,
+#control3,
+#control4,
+#control5,
+#control6 {
+  padding: 3%;
+}
+.pause,
+.restart {
+  margin: 10px;
+  background-color: #00d;
+  font-size: 26px;
+  border-radius: 4px;
+  text-align: center;
+  padding: 12px;
+  color: #3f5;
+}
+#gsap3 {
+  background-color: #000;
+  height: 733px;
+  width: 100%;
+  padding: 2%;
+  position: absolute;
+}
+#gsap3 .petal {
+  position: absolute;
+  left: 23%;
+  top: 23%;
+  border-style: solid;
+  border-width: 9px;
+  border-top-color: #0f5;
+  border-bottom-color: #0f5;
+  border-left-color: #05f;
+  border-right-color: #05f;
+  border-top-left-radius: 80%;
+  border-bottom-right-radius: 80%;
+  width: 59%;
+  height: 55%;
+  margin: auto;
+}
+#gsap4 {
+  background-color: #000;
+  height: 733px;
+  width: 100%;
+  padding: 2%;
+  position: absolute;
+}
+#gsap4 .petal {
+  position: absolute;
+  left: 53%;
+  top: 23%;
+  border-style: solid;
+  border-width: 5px;
+  border-top-color: #0f0;
+  border-bottom-color: #0f0;
+  border-left-color: #0f0;
+  border-right-color: #0f0;
+  border-top-left-radius: 80%;
+  border-bottom-right-radius: 80%;
+  width: 29%;
+  height: 25%;
+  margin: auto;
+}
+#gsap5 {
+  position: absolute;
+}
+#gsap5 div {
+  float: left;
+  position: relative;
+  font-size: 56px;
+  color: #3f5;
+  margin: 2px;
+}
+#gsap6 {
+  position: absolute;
+}
+#gsap6 div {
+  float: left;
+  position: relative;
+  font-size: 56px;
+  color: #3f5;
+  margin: 2px;
+}
+#gsap7 {
+  position: absolute;
+}
+#gsap7 .div1 {
+  position: relative;
+  font-size: 56px;
+  color: #3f5;
+  margin: 2px;
+}
+#gsap7 .div2 {
+  position: relative;
+  font-size: 36px;
+  color: #3f5;
+  margin: 39px;
+}
+#gsap7 .div3 {
+  position: relative;
+  font-size: 66px;
+  color: #3f5;
+  margin: 39px;
+}
